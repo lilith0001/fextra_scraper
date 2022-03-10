@@ -5,7 +5,9 @@ Each armor set dictionary contains a dictionary corresponding to each of the arm
 Each armor piece dictionary contains its stats (skill levels, decoration slots)
 
 # usage
-run the following command in the same directory as this notebook to download the site for processing.  
+Run the following command in the same directory as this notebook to download the site for processing.  
 *warning* it will take ~25 minutes to download.  
+You can choose to simply load my example_output.json.  
+There is an example for this in the notebook.
 `wget -r https://monsterhunterrise.wiki.fextralife.com/Armor+Sets`  
-then, you can just go through the notebook cells.  
+Then, you can just go through the notebook cells.  
